@@ -1,7 +1,7 @@
 # Пример
 
 ```javascript
-let segments = [
+var segments = [
   {
     'segmentId': '58c688cf5a65881618bcb22e',
     'portion': 30
